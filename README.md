@@ -1,4 +1,5 @@
 Introduction to DASH Animal Shelter
+
 The Dash Animal Shelter Project is an interactive web-based application designed to assist animal shelters in managing and visualizing their pet adoption data efficiently. Developed using Python, the project leverages the Dash framework to create an intuitive and user-friendly dashboard that allows users to filter, view, and analyze available animals for adoption. The application integrates with a MongoDB database, enabling real-time retrieval and manipulation of animal records, ensuring that shelters can keep their information up-to-date and organized.
 
 The primary goal of this project is to provide an efficient tool that simplifies data management for animal shelters. The application allows users to search for animals based on different filters, such as breed, age, and adoption status, enabling shelter workers and potential adopters to find relevant information quickly. By visualizing animal data in an interactive format, the application enhances decision-making, improves operational efficiency, and ultimately increases the likelihood of successful pet adoptions.
