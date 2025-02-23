@@ -1,1 +1,1 @@
-# CS499
+This week, I need to focus on emerging, disruptive, or game-changing technologies in computer science. I will identify and describe two such technologies, explain their likely impacts on the field and my career, discuss how they might affect humans, communities, or the world, and reflect on which course outcomes I have achieved so far and which ones remain.
